@@ -1,1 +1,1 @@
-# Naughty-or-Nice 2
+# Naughty-or-Nice
